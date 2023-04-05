@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A robot programmer and Python developer with a passion for process automation. I'm always learning and exploring new technologies to improve my skills and knowledge. Check out my GitHub to see some of my projects!</h3>
+<h3 align="justify">A robot programmer and Python developer with a passion for process automation. I'm always learning and exploring new technologies to improve my skills and knowledge. Check out my GitHub to see some of my projects!</h3>
 
 - 🔭 I’m currently working on **unsupervised machine learning algorithms**
 
